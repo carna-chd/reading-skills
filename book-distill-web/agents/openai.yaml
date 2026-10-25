@@ -1,0 +1,7 @@
+interface:
+  display_name: "书籍深度蒸馏网页"
+  short_description: "把整本书重构为可追溯的双模式互动阅读网页"
+  brand_color: "#9E2A24"
+  default_prompt: "Use $book-distill-web to distill this book into a source-grounded interactive reading page."
+policy:
+  allow_implicit_invocation: true
